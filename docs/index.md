@@ -1,3 +1,3 @@
-https://github.com/fbogliacino/JMP2021/blob/main/docs/BogliacinoJMP2021.pdf
+<embed src="https://fbogliacino.github.io/JMP2021/docs/BogliacinoJMP2021.pdf" width="100%" height="850px"/>
 
 
