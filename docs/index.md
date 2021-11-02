@@ -1,3 +1,6 @@
-<embed src="https://fbogliacino.github.io/JMP2021/docs/BogliacinoJMP2021.pdf" width="100%" height="850px"/>
-
+   <li><a href="./jmp.html" target="_blank">
+   <p>resume</p>
+   </a></li>
+   
+<embed src="./BogliacinoJMP2021.pdf" type="application/pdf" width=100% height=850px />
 
