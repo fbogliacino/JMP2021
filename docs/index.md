@@ -1,6 +1,5 @@
    <li><a href="./jmp.html" target="_blank">
-   <p>resume</p>
+   <p>JMP</p>
    </a></li>
    
-<embed src="./BogliacinoJMP2021.pdf" type="application/pdf" width=100% height=850px />
 
