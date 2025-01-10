@@ -3,7 +3,7 @@
    <p>CV</p>
    </a></li>
 
-   <li><a href="./Consentimiento_informado.html" target="_blank">
+   <li><a href="./Consentimento_informado.html" target="_blank">
    <p>ConsInformado</p>
    </a></li>
 
